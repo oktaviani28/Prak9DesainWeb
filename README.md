@@ -8,9 +8,9 @@ TUGAS PRAKTIKUM 9 :
 
 # Pembahasan Program 
 => HTML <br>
-  Pada Program HTML diatas Mendefinisikan struktur dasar halaman web termasuk container untuk slide gambar dan kontrolnya. Kemudian Menyertakan tautan ke file css dan mengimport java script.
+  Pada Program HTML diatas Mendefinisikan struktur dasar halaman web termasuk container untuk slide gambar dan kontrolnya. Kemudian Menyertakan tautan ke file css dan mengimport java script. <br>
 => CSS <br>
-  Memberikan gaya atau tata letak untuk elemen-elemen HTML , seperti slider dan kontrolnya.
+  Memberikan gaya atau tata letak untuk elemen-elemen HTML , seperti slider dan kontrolnya.<br>
 => JavaScript <br>
   Menambahkan fungsi interaktif ke halaman web, Menangani logika slider gambar, termasuk tindakan untuk mengganti gambar, menandai kontrol yang aktif , dan memulai/menghentikan slider otomatis. Dan menggunakan event listener untuk mengatasi interaksi pengguna dengan kontrol slider.
 
